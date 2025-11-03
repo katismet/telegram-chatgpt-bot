@@ -1,0 +1,14 @@
+.env
+
+.env.bak.old
+
+.venv/
+
+__pycache__/
+
+*.pyc
+
+*.log
+
+config.py
+
